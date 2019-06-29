@@ -1,4 +1,5 @@
 # typora-vue-theme
+[![HitCount](http://hits.dwyl.io/downgoon/typora-theme-downgoon.svg)](http://hits.dwyl.io/downgoon/typora-theme-downgoon)
 
 [English](README.md)
 
