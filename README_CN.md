@@ -1,6 +1,5 @@
 # typora-vue-theme
 [![HitCount](http://hits.dwyl.io/downgoon/typora-theme-downgoon.svg)](http://hits.dwyl.io/downgoon/typora-theme-downgoon)
-
 [English](README.md)
 
 本主题样式是 [typora-theme-vue](https://github.com/blinkfox/typora-vue-theme) 的一个变种，主要增加了标题高亮渲染和自动编号的功能。
