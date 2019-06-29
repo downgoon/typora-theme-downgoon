@@ -20,7 +20,7 @@ A forked variation of [typora-theme-vue](https://github.com/blinkfox/typora-vue-
 
 ## Install
 
-1. [Download](https://codeload.github.com/blinkfox/typora-vue-theme/zip/master) this theme from Github, then you can get the `downgoon.css` file and the `downgoon` folder.
+1. [Download](https://github.com/downgoon/typora-theme-downgoon/archive/master.zip) this theme from Github, then you can get the `downgoon.css` file and the `downgoon` folder.
 2. Open typora. Click "**Open Theme Folder**" button from `Preference Panel` → `Apperance` section.
 3. Put `downgoon.css` and `downgoon` folder into the opened folder, make sure your css files are directly under that directory.
 4. Close and reopen Typora and select `Theme` → `downgoon` from the menu bar.

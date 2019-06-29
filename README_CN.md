@@ -14,7 +14,7 @@
 
 ## 安装主题
 
-1. 下载本主题中的`downgoon.css`文件和包含字体的`downgoon`文件夹；
+1. [下载](https://github.com/downgoon/typora-theme-downgoon/archive/master.zip)本主题中的`downgoon.css`文件和包含字体的`downgoon`文件夹；
 2. 打开 Typora，点击“**偏好设置**” => “**打开主题文件夹**”按钮，将弹出 Typora 的主题文件夹；
 3. 将下载好的`downgoon.css`和包含字体的`downgoon`文件夹放到 Typora 的主题文件夹中；
 4. 关闭并重新打开 Typora，从菜单栏中选择 “**主题**” => “**downgoon**” 即可。
