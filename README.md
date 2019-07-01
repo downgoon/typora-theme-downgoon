@@ -4,7 +4,7 @@
 
 A forked variation of [typora-theme-vue](https://github.com/blinkfox/typora-vue-theme) with some additional features such as hightlight and numbered headlines.
 
-
+[**downgoon**](http://theme.typora.io/fork/downgoon/) (/daʊn'gʊn/) This theme was born out of a need to **quickly look at the targeting section** in the whole document with **numbered headlines marked by highlight bar**. It is useful and convenient when you share and discuss with other members of your team especially in a remote meeting.
 
 
 > *Designed and tested on MacOS. Not fully tested, but should work for Windows/Linux.*
